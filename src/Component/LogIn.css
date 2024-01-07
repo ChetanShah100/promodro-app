@@ -1,0 +1,22 @@
+.Login{
+    border: 2px solid black;
+    width: 25%;
+    height: 300px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    background-color: rgb(218, 87, 40);
+    box-shadow: 2px 2px 10px;
+}
+.Login h2{
+    text-align: center;
+}
+.Login input{
+    height: 25px;
+    width: 70%;
+    margin-top: 10px;
+    margin-left: 45px;
+}
+.Login button{
+    margin-left: 150px;
+}

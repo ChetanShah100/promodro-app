@@ -1,0 +1,32 @@
+.MainBox{
+    border: 2px solid black;
+    height: 80vh;
+    background-image: url('https://c1.wallpaperflare.com/preview/680/74/454/alarm-alarm-clock-bed-time-deadline.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    background-size: auto;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 20px;
+    opacity: 0.9;
+}
+.Timer{
+    text-align: center;
+    margin-top: 100px;
+    line-height: 50px;
+    
+}
+.Timer .btn button{
+    font-weight: bold;
+    padding:10px 20px;
+    border: 3px dotted #150ab0;
+}
+.Timer h2{
+    border: 2px solid black;
+    width: 20%;
+    margin: auto;
+    border-radius: 5px;
+   
+}
